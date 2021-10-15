@@ -18,7 +18,7 @@
 ### What is the NPV for a given hotspot? Assume the risk free rate is a 1-year T-bill.
 ### In what areas of the world is it most profitable to place a hotspot?
 #### Create buckets of hotspots in various areas of the world to analyze and plot on a map.
-### 
+
 
 
 ## Data sets to be used
@@ -29,6 +29,7 @@
 ## Task Assignments
 ### Andrew McCoy - pull and clean data using helium api
 ### Andrew Hidalgo - Write code to calculate average daily rewards and standard deviation of rewards for particular hotspot
-### Nadia Nadir 
-### Krishan Kandial
+### Nadia Nadir - Write code to make plot, charts and a map of the hotspot locations
+### Krishan Kandial - Run Monte Carlo simulations to project rewards for a hotspot and returns of holding the HNT token.
+### All - Design and create dashboard
 
