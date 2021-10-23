@@ -3,10 +3,11 @@
 # Helium Mining Rewards Analysis
 
 ## Team members
+### Andrew McCoy
 ### Andrew Hidalgo
 ### Nadia Nadir
 ### Krishan Kandial
-### Andrew McCoy
+
 
 ## Project Description
 ### Pull data from the Helium Network using an API to analyze rewards earned for particular hotspots.
