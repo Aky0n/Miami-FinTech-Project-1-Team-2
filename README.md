@@ -1,5 +1,5 @@
 # **Helium Mining Rewards Analysis**
-![Helium_logo](Images/HElium_logo.png)
+![Helium_logo](Images/Helium_logo.png)
 
 ## **Team members**
 ### Andrew McCoy
