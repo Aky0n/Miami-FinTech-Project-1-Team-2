@@ -16,10 +16,12 @@ Pull data from the Helium Network using an API to analyze rewards earned for par
 ### **Background**
 What is **Helium**? People-Powered Network by:
 * Mining Crypto with Radio
+
 ![Equipment](Images/Mining.png)
 ![Antenna](Images/Antenna1.png)
 
 * Stake (Proof of Coverage) over the Helium Blockchain 
+
 ![Stake](Images/Stake.png)
 
 * Use the Network (Agriculture, Enviroment Monitoring, Logistics & Supply Chain, Water Monitoring, etc.)
