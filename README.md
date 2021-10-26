@@ -81,5 +81,5 @@ Using the standard deviation bar chart it shows that four of the hotspots are co
 #### In what areas most profitable to place a hotspot?
 ![most_profitable](Images/most_profitable1.png)
 
-
+## The Final merged code is located in the main folder
 
