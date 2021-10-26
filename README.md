@@ -56,7 +56,6 @@ What is **Helium**? People-Powered Network by:
 
 #### What is the standard deviation of daily rewards for a given hotspot over the last 30 days?
 
-![standard_dev](Images/Standard_dev.png)
 ![standard_dev_plot](Images/standard_dev_plot.png)
 
 #### What is the current price of HNT Token in USD?
